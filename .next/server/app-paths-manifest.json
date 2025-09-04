@@ -1,0 +1,6 @@
+{
+  "/api/images/metadata/route": "app/api/images/metadata/route.js",
+  "/api/images/tags/route": "app/api/images/tags/route.js",
+  "/api/images/search/route": "app/api/images/search/route.js",
+  "/page": "app/page.js"
+}
